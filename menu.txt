@@ -1,3 +1,0 @@
-::MENU
-1. BARU
-2. TEST SAJA
